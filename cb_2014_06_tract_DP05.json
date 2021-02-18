@@ -1,0 +1,7 @@
+URL transformed to HTTPS due to an HSTS policy
+--2021-02-16 22:02:13--  https://api.census.gov/data/2014/acs5?get=B01003_001E&for=tract:*&in=state:06
+Resolving api.census.gov (api.census.gov)... 148.129.75.191
+Connecting to api.census.gov (api.census.gov)|148.129.75.191|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2021-02-16 22:02:14 ERROR 404: Not Found.
+
